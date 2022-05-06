@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36983969/167055123-85c7f263-8d76-42cc-9d96-234f17101bfa.jpeg" alt="my banner"></a>
 </p>
 <h3 align="center">
