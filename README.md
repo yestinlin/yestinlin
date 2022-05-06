@@ -9,10 +9,9 @@ Hi there, I'm Mingying 👋
 I'm a Front-end/Blockchain Developer 💻, UI/UX Designer 🎨, and Basketball lover 🏀 !
 </h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Blockchain development advanced
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+- 👯 I’m looking to collaborate on innovative project
+
 
 - 🎯 2022 Goal: Be a true "Unicorn" who can design and code
  ### 📫 Connect with me: 
