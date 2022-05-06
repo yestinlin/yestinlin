@@ -10,10 +10,10 @@ I'm a Front-end/Blockchain Developer 💻, UI/UX Designer 🎨, and Basketball l
 </h2> 
 
 
-- 👯 I’m looking to collaborate on innovative project
+ 👯 I’m looking to collaborate on innovative project
 
 
-- 🎯 2022 Goal: Be a true "Unicorn" who can design and code
+ 🎯 2022 Goal: Be a true "Unicorn" who can design and code
  ### 📫 Connect with me: 
 <a href="https://www.linkedin.com/in/mingying-lin/"><img align="left" src="https://github.com/yestinlin/yestinlin/blob/b42dade46a9fcbc54ec837ca5cbfaf749e22c2e9/images/icons8-linkedin-circled.gif" alt="Mingying Lin | LinkedIn" width="25px"/></a>
 <a href="www.mingyingl.com"><img align="left" src="https://github.com/yestinlin/yestinlin/blob/b42dade46a9fcbc54ec837ca5cbfaf749e22c2e9/images/icons8-share.gif" alt="Mingying Lin | Personal Website" width="25px"/></a>
