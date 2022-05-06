@@ -37,6 +37,7 @@ I'm a Front-end/Blockchain Developer 💻, UI/UX Designer 🎨, and Basketball l
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 
 </br>
