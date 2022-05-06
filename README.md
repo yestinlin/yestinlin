@@ -21,3 +21,12 @@ I'm a Front-end/Blockchain Developer 💻, UI/UX Designer 🎨, and Basketball l
 <a href="mailto:mingyingl233@gmail.com"><img align="left" src="https://github.com/yestinlin/yestinlin/blob/b42dade46a9fcbc54ec837ca5cbfaf749e22c2e9/images/icons8-gmail-logo.gif" alt="Mingying Lin | Gmail" width="30px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+## 🔭 I'm currently working on
+
+- Restaurant Recommendation App (MERN)
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
