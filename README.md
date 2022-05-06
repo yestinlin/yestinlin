@@ -1,3 +1,6 @@
+<p align="center">
+  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36983969/167055123-85c7f263-8d76-42cc-9d96-234f17101bfa.jpeg" alt="my banner"></a>
+</p>
 <h3 align="center">
 Hi there, I'm Mingying 👋
 </h3>
@@ -5,8 +8,6 @@ Hi there, I'm Mingying 👋
 <h2 align="center">
 I'm a Front-end/Blockchain Developer 💻, UI/UX Designer 🎨, and Basketball lover 🏀 !
 </h2> 
-![1576369129701](https://user-images.githubusercontent.com/36983969/167055123-85c7f263-8d76-42cc-9d96-234f17101bfa.jpeg)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Blockchain development advanced
