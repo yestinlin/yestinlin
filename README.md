@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Front-end/Blockchain Developer 💻, UI/UX Designer 🎨, and Basketball lover!
+</h2> 
 ![1576369129701](https://user-images.githubusercontent.com/36983969/167055123-85c7f263-8d76-42cc-9d96-234f17101bfa.jpeg)
 
 
