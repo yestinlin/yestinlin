@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="![_Bold Lettering Tumblr Banner (1)](https://user-images.githubusercontent.com/36983969/167293793-074c4ed8-4af0-427b-a5e6-3b9337b6087a.png)
+  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36983969/167293835-ae43d527-ba98-4c7a-8277-6f4a0e409399.png
 " alt="my banner"></a>
 </p>
 <h3 align="center">
