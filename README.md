@@ -1,5 +1,6 @@
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36983969/167055123-85c7f263-8d76-42cc-9d96-234f17101bfa.jpeg" alt="my banner"></a>
+  <a target="_blank" rel="noreferrer"><img src="![_Bold Lettering Tumblr Banner (1)](https://user-images.githubusercontent.com/36983969/167293793-074c4ed8-4af0-427b-a5e6-3b9337b6087a.png)
+" alt="my banner"></a>
 </p>
 <h3 align="center">
 Hi there, I'm Mingying 👋
