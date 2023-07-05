@@ -23,11 +23,11 @@ I'm a Front-end Developer 💻, UI/UX Designer 🎨, and Basketball lover 🏀 !
 
 ## 🔭 I'm currently working on
 
-- ERC-721 smart contract
+- Full-stack development
 
 ## 🌱 I'm currently learning
 
-- Dapp development
+- Blockchain development
 
 ## 💼 Technical Skills
 
