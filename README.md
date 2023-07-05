@@ -11,7 +11,7 @@ I'm a Front-end Developer 💻, UI/UX Designer 🎨, and Basketball lover 🏀 !
 
 👯 I’m looking to collaborate on innovative projects
 
-🎯 2022 Goal: Be a true "Unicorn" who can design and code
+🎯 2023 Goal: Be a true "Unicorn" who can design and code
 
  
 ### 📫 Connect with me: 
