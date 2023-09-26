@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="[https://github-production-user-asset-6210df.s3.amazonaws.com/36983969/270500902-f33ad918-de0b-4cf9-baf3-2c31f2d23e2a.jpg]" alt="my banner"></a>
+  <a target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/36983969/270500902-f33ad918-de0b-4cf9-baf3-2c31f2d23e2a.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
