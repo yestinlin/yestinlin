@@ -1,7 +1,7 @@
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36983969/167293835-ae43d527-ba98-4c7a-8277-6f4a0e409399.png" alt="my banner"></a>
+  <a target="_blank" rel="noreferrer"><img src="[https://user-images.githubusercontent.com/36983969/167293835-ae43d527-ba98-4c7a-8277-6f4a0e409399.png](https://github-production-user-asset-6210df.s3.amazonaws.com/36983969/270500902-f33ad918-de0b-4cf9-baf3-2c31f2d23e2a.jpg)" alt="my banner"></a>
 </p>
-![Group 8 (1)](https://github.com/yestinlin/yestinlin/assets/36983969/f33ad918-de0b-4cf9-baf3-2c31f2d23e2a)
+
 <h3 align="center">
 
 Hi there, I'm Mingying 👋
